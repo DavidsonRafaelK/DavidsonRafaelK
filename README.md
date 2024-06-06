@@ -10,4 +10,4 @@ I'am Davidson Rafael a student from ___ university in Indonesia. My goal is to b
 - [x] Reading Books
 
 ### Follow me to at 
-[Youtube : Sung Jihan](https://youtube.com/@sung_jihan?si=tObF3aOGWFX5KuBr)
+[Youtube : Davidson Rafael](https://www.youtube.com/channel/UCVp9qJjYRgO599ZOa424f4Q)
