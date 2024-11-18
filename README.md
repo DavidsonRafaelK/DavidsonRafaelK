@@ -29,4 +29,4 @@ I enjoy working with the following tools and technologies:
 
 ## 📈 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DavidsonRafaelK)](https://git.io/streak-stats)  
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DavidsonRafaelK)](https://github.com/DavidsonRafaelK/github-profile-trophy)
