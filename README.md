@@ -4,7 +4,7 @@
 
 **Computer Science (2024 - Present) at UKRIDA**
 
-*Building thoughtful digital solutions — one commit at a time.*
+*Eager to learn.*
 
 ### SOCIAL MEDIA
 
